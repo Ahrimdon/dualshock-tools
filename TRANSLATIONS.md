@@ -21,11 +21,11 @@ To translate the project into a new language, follow these steps:
 
 ```javascript
 var available_langs = {
-  es_es: { name: "Español", file: "es_es.json" },
-  fr_fr: { name: "Français", file: "fr_fr.json" },
-  hu_hu: { name: "Magyar", file: "hu_hu.json" },
-  it_it: { name: "Italiano", file: "it_it.json" },
-  zh_cn: { name: "中文", file: "zh_cn.json" },
+    es_es: { name: "Español", file: "es_es.json" },
+    fr_fr: { name: "Français", file: "fr_fr.json" },
+    hu_hu: { name: "Magyar", file: "hu_hu.json" },
+    it_it: { name: "Italiano", file: "it_it.json" },
+    zh_cn: { name: "中文", file: "zh_cn.json" },
 };
 ```
 
